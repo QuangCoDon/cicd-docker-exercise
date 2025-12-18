@@ -34,7 +34,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: quangit309/it4409-sample:staging
+          tags: quangluuyenho5b@gmail.com/it4409-sample:staging
 
   deploy:
     name: Deploy to Server
